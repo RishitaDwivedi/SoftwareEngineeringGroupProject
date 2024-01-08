@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<airport>
+    <ascent>4.0</ascent>
+    <descent>3.0</descent>
+    <name>Heathrow</name>
+    <runways>
+        <heading>4</heading>
+        <mParameters>
+            <asda>2000.0</asda>
+            <lda>28.0</lda>
+            <resa>240.0</resa>
+            <toda>4000.0</toda>
+            <tora>400.0</tora>
+        </mParameters>
+        <position>C</position>
+        <threshold>57.0</threshold>
+    </runways>
+</airport>

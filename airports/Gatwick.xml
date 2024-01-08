@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<airport>
+    <ascent>40.0</ascent>
+    <descent>60.0</descent>
+    <name>Gatwick</name>
+    <runways>
+        <heading>4</heading>
+        <mParameters>
+            <asda>1000.0</asda>
+            <lda>568.0</lda>
+            <resa>240.0</resa>
+            <toda>900.0</toda>
+            <tora>800.0</tora>
+        </mParameters>
+        <position>L</position>
+        <threshold>50.0</threshold>
+    </runways>
+</airport>
